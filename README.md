@@ -1,6 +1,6 @@
-# Morphic
+# AI Search Engine By Syed Afseh Ehsani
 
-An AI-powered search engine with a generative UI.
+An AI-powered search engine with a generative UI
 
 ![capture](/public/screenshot-2025-01-31.png)
 
